@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "conquestnature:clover_leaf"
+  },
+  "result": "conquestnature:dried_clover_leaf"
+}

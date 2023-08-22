@@ -1,0 +1,70 @@
+{
+  "item.conquestnature.pebble": "Pebble",
+  "item.conquestnature.leaf": "Leaf",
+  "item.conquestnature.ruby": "Ruby",
+  "item.conquestnature.raw_ruby": "Raw Ruby",
+
+
+
+  "item.conquestnature.clover_leaf": "Clover Leaf",
+  "item.conquestnature.sprig_root": "Sprig Root",
+  "item.conquestnature.toadstool_mushroom": "Toadstool Mushroom",
+
+  "item.conquestnature.clover_leaf_seeds": "Clover Leaf Seeds",
+  "item.conquestnature.sprig_root_seeds": "Sprig Root Seeds",
+  "item.conquestnature.toadstool_mushroom_seeds": "Toadstool Mushroom Seeds",
+
+  "item.conquestnature.dried_clover_leaf": "Dried Clover Leaf",
+  "item.conquestnature.crispy_sprig_root": "Crispy Sprig Root",
+  "item.conquestnature.toadstool_mushroom_stew": "Toadstool Mushroom Stew",
+
+
+
+  "item.conquestnature.leaf_helmet": "Dekuleaf Helmet",
+  "item.conquestnature.leaf_chestplate": "Dekuleaf Chestplate",
+  "item.conquestnature.leaf_leggings": "Dekuleaf Leggings",
+  "item.conquestnature.leaf_boots": "Dekuleaf Boots",
+
+  "item.conquestnature.pebble_helmet": "Pebble Helmet",
+  "item.conquestnature.pebble_chestplate": "Pebble Chestplate",
+  "item.conquestnature.pebble_leggings": "Pebble Leggings",
+  "item.conquestnature.pebble_boots": "Pebble Boots",
+
+
+
+  "block.conquestnature.clover_crop": "Clover Crop",
+  "block.conquestnature.sprig_crop": "Sprig Crop",
+  "block.conquestnature.toadstool_crop": "Toadstool Crop",
+
+
+"effect.conquestnature.basic_shrink": "Basic Shrinking (1/2)",
+"effect.conquestnature.medium_shrink": "Medium Shrinking (1/4)",
+"effect.conquestnature.crazy_shrink": "Crazy Shrinking (1/8)",
+"effect.conquestnature.insane_shrink": "Insane Shrinking (1/16)",
+
+  "item.minecraft.potion.effect.basic_shrinking_potion": "Basic Shrinking Potion",
+  "item.minecraft.splash_potion.effect.basic_shrinking_potion": "Splash Potion of Basic Shrinking",
+  "item.minecraft.lingering_potion.effect.basic_shrinking_potion": "Lingering Potion of Basic Shrinking",
+  "item.minecraft.tipped_arrow.effect.basic_shrinking_potion": "Arrow of Basic Shrinking",
+
+  "item.minecraft.potion.effect.medium_shrinking_potion": "Medium Shrinking Potion",
+  "item.minecraft.splash_potion.effect.medium_shrinking_potion": "Splash Potion of Medium Shrinking",
+  "item.minecraft.lingering_potion.effect.medium_shrinking_potion": "Lingering Potion of Medium Shrinking",
+  "item.minecraft.tipped_arrow.effect.medium_shrinking_potion": "Arrow of Medium Shrinking",
+
+  "item.minecraft.potion.effect.crazy_shrinking_potion": "Crazy Shrinking Potion",
+  "item.minecraft.splash_potion.effect.crazy_shrinking_potion": "Splash Potion of Crazy Shrinking",
+  "item.minecraft.lingering_potion.effect.crazy_shrinking_potion": "Lingering Potion of Crazy Shrinking",
+  "item.minecraft.tipped_arrow.effect.crazy_shrinking_potion": "Arrow of Crazy Shrinking",
+
+  "item.minecraft.potion.effect.insane_shrinking_potion": "Insane Shrinking Potion",
+  "item.minecraft.splash_potion.effect.insane_shrinking_potion": "Splash Potion of Insane Shrinking",
+  "item.minecraft.lingering_potion.effect.insane_shrinking_potion": "Lingering Potion of Insane Shrinking",
+  "item.minecraft.tipped_arrow.effect.insane_shrinking_potion": "Arrow of Insane Shrinking",
+
+
+
+  "itemGroup.conquestitemstab": "Conquest of Nature's Items",
+  "itemGroup.conquestarmorstab": "Conquest of Nature's Armors",
+  "itemGroup.conquestfoodstab": "Conquest of Nature's Foods"
+}

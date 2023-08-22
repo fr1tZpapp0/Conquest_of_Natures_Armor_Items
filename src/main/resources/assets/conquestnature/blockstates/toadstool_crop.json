@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "age=0": { "model": "conquestnature:block/toadstool_stage0" },
+    "age=1": { "model": "conquestnature:block/toadstool_stage1" },
+    "age=2": { "model": "conquestnature:block/toadstool_stage2" },
+    "age=3": { "model": "conquestnature:block/toadstool_stage3" }
+  }
+}
